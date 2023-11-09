@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 67px;
+    
+}
+
+#searchform{
+    display: table;
+    margin: auto;
+    margin-bottom: 50px;
+    
+}
+
+#search {
+    margin-right: 5px;
+    background-color: rgb(241, 160, 10);
+    width: 100px;
+    height: 30px;
+    
+}
+
+#search:hover{
+
+    background-color: rgb(244, 194, 101);
+}
+
+#delete{
+    width: 100px;
+    height: 30px;
+}
+
+#searchbar{
+    height: 26px;
+
+}
+
+div{
+    text-align: center;
+    display: block;
+}
+
